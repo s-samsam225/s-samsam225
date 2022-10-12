@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s-samsam225
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning java script and html
+- 🌱 I’m currently learning java script and python
 
 <!---
 s-samsam225/s-samsam225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
